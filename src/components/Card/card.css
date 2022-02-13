@@ -1,0 +1,5 @@
+.myCard:hover {
+  cursor: pointer;
+  transform: scale(0.95);
+  transition: ease-in 0.2s;
+}
